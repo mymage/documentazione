@@ -13,7 +13,16 @@ Index
 .. toctree::
     :maxdepth: 3
 
-    repo_oca
+    contabilita
+    vendite
+    acquisti
+    magazzino
+    repo_o2o
+    company
+    extra
+    tech
+    connector
+    vertical
     guide_comunita
     gruppi
 
